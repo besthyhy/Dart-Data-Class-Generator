@@ -6,6 +6,8 @@
 
 Create dart data classes easily, fast and without writing boilerplate or running code generation.  
 
+**DateTime type improvement, refer to the official dart solution.**
+
 ## Features
 
 The generator can generate the constructor, copyWith, toMap, fromMap, toJson, fromJson, toString, operator == and hashCode methods for a class based on [class properties](#create-data-classes-based-on-class-properties) or [raw JSON](#create-data-classes-based-on-json-beta).

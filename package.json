@@ -2,14 +2,14 @@
 	"name": "dart-data-class-generator",
 	"displayName": "Dart Data Class Generator",
 	"description": "Create dart data classes easily, fast and without writing boilerplate or running code generation.",
-	"publisher": "hzgood",
-	"version": "0.5.3",
+	"publisher": "besthyhy",
+	"version": "0.5.4",
 	"engines": {
 		"vscode": "^1.37.0"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/huang12zheng/Dart-Data-Class-Generator/commits/master"
+		"url": "https://github.com/besthyhy/Dart-Data-Class-Generator.git"
 	},
 	"icon": "assets/icon.png",
 	"keywords": [
