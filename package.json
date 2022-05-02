@@ -1,6 +1,6 @@
 {
-	"name": "dart-data-class-generator",
-	"displayName": "Dart Data Class Generator",
+	"name": "dart-data-class-better-datetime",
+	"displayName": "DartDataClass better DateTime",
 	"description": "Create dart data classes easily, fast and without writing boilerplate or running code generation.",
 	"publisher": "besthyhy",
 	"version": "0.5.4",
